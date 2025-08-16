@@ -12,7 +12,7 @@ function checkAnswer() {
             feedback.style.color = "green";
         }
         else {
-            feedback.textContent = "That's incorrect. Try Again!";
+            feedback.textContent = "That's incorrect. Try again!";
             feedback.style.color = "red";
         }
 
